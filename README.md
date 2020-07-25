@@ -1,5 +1,3 @@
-# Welcome to my github!
-
 <div align="center">
 	<img src="https://github.com/sharkrachel/sharkrachel/blob/master/header-github.gif">
 </div>
