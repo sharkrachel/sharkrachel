@@ -10,7 +10,7 @@ I am a Full Stack Software Engineer with a background in marketing and business 
 ## What I want to do next
 - Backend Development - I love working with data + APIs
 - Delve into the world of GraphQL and Apollo to expand my stack
-- Finally finish a shilly project I've ben working on with [Phil Cowan](https://github.com/phil4lif)
+- Finally finish a silly project I've been working on with [Phil Cowan](https://github.com/phil4lif)
 
 ## Reach me 
 [Portfolio](https://www.rachelsipes.com) | [Github](https://github.com/sharkrachel) | [Linkedin](https://www.linkedin.com/in/rachelsipes/) | [Mail](mailto:rasipes@gmail.com)
