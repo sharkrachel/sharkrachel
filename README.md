@@ -1,7 +1,7 @@
 # Welcome to my github!
 
 <div align="center">
-	<img src="https://imgur.com/e7SN9yU">
+	<img src="https://github.com/sharkrachel/sharkrachel/blob/master/header-github.gif">
 </div>
 
 ## About me
@@ -20,6 +20,6 @@ I am a Full Stack Software Engineer with a background in marketing and business 
 
 ### Interesting stats
 
-[Rachel's stats](https://github-readme-stats.vercel.app/api?username=sharkrachel&show_icons=true)
+![Rachel's stats](https://github-readme-stats.vercel.app/api?username=sharkrachel&show_icons=true)
 
 Thanks for stopping by!
