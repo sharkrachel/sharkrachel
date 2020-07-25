@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/sharkrachel/sharkrachel/blob/master/header-github.gif">
+	<img src="https://github.com/sharkrachel/sharkrachel/blob/master/github-header-final.gif">
 </div>
 
 ## About me
