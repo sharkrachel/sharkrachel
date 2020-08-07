@@ -13,7 +13,7 @@ I am a Full Stack Software Engineer with a background in marketing and business 
 - Finally finish a silly project I've been working on with [Phil Cowan](https://github.com/phil4lif)
 
 ## Reach me 
-[Portfolio](https://www.rachelsipes.com) | [Github](https://github.com/sharkrachel) | [Linkedin](https://www.linkedin.com/in/rachelsipes/) | [Mail](mailto:rasipes@gmail.com)
+[Portfolio](https://www.rachelsipes.com) | [Github](https://github.com/sharkrachel) | [Linkedin](https://www.linkedin.com/in/rachelsipes/) | [Email](mailto:rasipes@gmail.com)
 
 
 ### Interesting stats
