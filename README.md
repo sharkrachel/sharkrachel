@@ -3,7 +3,7 @@
 </div>
 
 ## About me
-I am a Full Stack Software Engineer with a background in marketing and business operations. My stack: JavaScript, Node, Express, REST API, MySQL, MongoDB, React, HTML, CSS. 
+I am a Software Engineer with a background in marketing and business operations. My stack: JavaScript, Node, Express, REST API, MySQL, MongoDB, React, HTML, CSS. 
 
 **Currently looking for a new opportunity. Hire me!**
 
