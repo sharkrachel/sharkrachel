@@ -8,7 +8,7 @@ I am a Software Engineer with a background in marketing and business operations.
 **Currently looking for a new opportunity. Hire me!**
 
 ## What I want to do next
-- Backend Development - I love working with data + APIs
+- I love working with data + APIs
 - Delve into the world of GraphQL and Apollo to expand my stack
 - Finally finish a silly project I've been working on with [Phil Cowan](https://github.com/phil4lif)
 
